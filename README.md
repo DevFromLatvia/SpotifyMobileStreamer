@@ -60,6 +60,12 @@ Our team will provide all required installation files. Setup takes approximately
 + Option To Follow Playlists
 + See detailed Follow information
 
+
+
+https://github.com/user-attachments/assets/c4e7f973-408e-4fd6-a8b3-deadb140a51b
+
+
+
 # 📩 Contact & Trial
 
 This is a **paid program**, but we offer a **free trial for a few hours** so you can test the software and see if it meets your needs.
