@@ -8,6 +8,8 @@ Our team will provide all required installation files. Setup takes approximately
 
 **Requirements:**
 + Windows PC or Server
++ Android 9+ *(IF YOU HAVE REAL PHONES)*
++ Default Browser: **Chrome**
 + Installed Python
 + Developer Options enabled on your phones (we can assist with setup)
 + **MEMU users:** A pre-configured version will be provided
