@@ -75,7 +75,7 @@ Interested? Contact us directly on Telegram:
 👉 **[Message us on Telegram](https://t.me/DevFromLatvia)**
 
 # Update Dates:
-+ 13/06/2026 - Made Public after 5 month Testing
++ 13/06/2026 - Made Public After 5 Month Testing
 + 01/07/2026 - Regular Maintenance
 + 04/08/2026 - Added Option To Follow Playlists
 + 15/08/2026 - Added Playlist Streaming
@@ -83,6 +83,7 @@ Interested? Contact us directly on Telegram:
 + 31/08/2026 - Updated Captcha Solver
 + 13/09/2026 - Regular Maintenance
 + 30/09/2026 - Major Update / new UI
++ 01/10/2026 - Updated Follow Artist Function
 
 # 📋 Disclaimer
 
