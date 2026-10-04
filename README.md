@@ -1,5 +1,13 @@
 Automate your Android phones, phone farm boxes, or emulators for account generation and streaming. Supports both **modded APKs** and the **latest Spotify version from the Google Play Store**. Ideal for users with large phone farms or high-performance servers capable of running multiple emulators simultaneously.
 
+# 📩 Contact & Trial
+
+This is a **paid program**, but we offer a **free trial for a few hours** so you can test the software and see if it meets your needs.
+
+Interested? Contact us directly on Telegram:
+
+👉 **[Message us on Telegram](https://t.me/DevFromLatvia)**
+
 # 🛠️ Requirements & Installation
 
 Our team will provide all required installation files. Setup takes approximately **5 minutes**, and no additional software is required.
